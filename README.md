@@ -1,0 +1,2 @@
+# NotiteApp
+Aplicatie Tip Notes
